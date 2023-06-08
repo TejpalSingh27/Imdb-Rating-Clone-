@@ -1,0 +1,14 @@
+we are using an owl carausel that will change the movies banner but here it is called react responsive carousel
+
+and we are using skeleton loading called react-loading-skeleton
+
+we have used tmdb api
+signup and go in movies section to get the api
+
+npm install react-router-dom
+npm i react-responsive-carousel
+we have putted link on whole carousel to get the movie details if click
+backdrop path is giving onlyimage so used to get right poster
+used fontawesome for stars after setting up fontawesomr cdn
+
+npm i react-loading-skeleton
